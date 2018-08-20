@@ -17,7 +17,7 @@ In your favorite Modelica tool, e.g. Open Modelica, follow the steps below:
 - Under the `Network` subpackage, go to the model `Network_DL`; the figure shown on top of this repository is the Generator model used in the distribution network of the `Network_DL` including the Islanded operation controller.
 - Go to the `Simulation` tab of your tool, and click the `Simulate` button.
 - The simulaiton results of distribution network frequency should be similar to the one shown next when the isalnded controller remains active or inactive :
-![alt text](ALSETLab/2018_AmericanModelicaConf_PMUBasedIslanding/blob/master/Example_Results/Dymola2018/IslandedOperationController/Plots_ControllerEffect.png)
+![alt text](https://github.com/ALSETLab/2018_AmericanModelicaConf_PMUBasedIslanding/blob/master/Example_Results/Dymola2018/IslandedOperationController/Plots_ControllerEffect.png)
 
 
 - You can perform similar simulations of some of the components within the model by making your own simulation model.
