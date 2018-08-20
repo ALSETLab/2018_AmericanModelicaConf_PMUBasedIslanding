@@ -1,0 +1,31 @@
+within Modelica2018US_IslandedOperationControl.Essentials;
+model FrequencyComputationBlock
+
+  Modelica.Blocks.Interfaces.RealInput u
+    annotation (Placement(transformation(extent={{-120,30},{-80,70}}),
+        iconTransformation(extent={{-120,30},{-80,70}})));
+  Modelica.Blocks.Interfaces.RealInput u1
+    annotation (Placement(transformation(extent={{-120,-70},{-80,-30}}),
+        iconTransformation(extent={{-120,-70},{-80,-30}})));
+  Modelica.Blocks.Interfaces.RealOutput y
+    annotation (Placement(transformation(extent={{90,-10},{110,10}}),
+        iconTransformation(extent={{90,-10},{110,10}})));
+  Modelica.Blocks.Continuous.Derivative derivative
+    annotation (Placement(transformation(extent={{-64,40},{-44,60}})));
+  Modelica.Blocks.Continuous.Derivative derivative1
+    annotation (Placement(transformation(extent={{-64,-60},{-44,-40}})));
+equation
+  y =  (u*(derivative1.y) + u1*(derivative.y))/ ((u^2) + (u1^2));
+
+  connect(u1, derivative1.u)
+    annotation (Line(points={{-100,-50},{-100,-50},{-66,-50}},color={0,0,127}));
+  connect(u, derivative.u) annotation (Line(points={{-100,50},{-84,50},{-66,50}}, color={0,0,127}));
+  annotation (                                 Icon(graphics={Rectangle(
+          extent={{-100,100},{100,-100}},
+          lineColor={28,108,200},
+          fillColor={255,255,255},
+          fillPattern=FillPattern.Solid), Text(
+          extent={{-40,14},{46,-10}},
+          lineColor={28,108,200},
+          textString="Frequency Computation Block")}));
+end FrequencyComputationBlock;
