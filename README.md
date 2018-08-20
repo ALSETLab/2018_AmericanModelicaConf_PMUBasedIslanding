@@ -20,7 +20,7 @@ In your favorite Modelica tool, e.g. Open Modelica, follow the steps below:
 ![alt text](https://github.com/ALSETLab/2018_AmericanModelicaConf_PMUBasedIslanding/blob/master/Example_Results/Dymola2018/IslandedOperationController/Plots_ControllerEffect.png)
 
 
-- You can perform similar simulations of some of the components within the model by making your own simulation model.
+- You can perform similar simulations of the power system model by making your own changes using some other components from the distributed package.
 
 
 ## Development and contribution
