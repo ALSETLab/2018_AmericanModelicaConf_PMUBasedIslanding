@@ -3,7 +3,7 @@ class Copyright "Disclaimer<html>
   <p>The package 'Modelica2018US_paper_15.mo' is including the models presented in the conference paper 'Modeling of PMU-Based Islanded Operation Controls for 
   Power Distribution Networks using Modelica and OpenIPSL' at American Modelica Conference 2018. </p>
 <p>Copyright July 2018 - Biswarup Mukherjee, IIT Bombay, India & Prof. Luigi Vanfretti, Rensselaer Polytechnic Institute, Troy, NY.</p>
-<p>Copyright April 2016 - July 2017 SmarTS Lab (Sweden)</p>
+
 <p>&nbsp;</p>
 <p>OpenIPSL:</p>
 <p>Copyright August 2017 - Prof. Luigi Vanfretti, Rensselaer Polytechnic Institute, Troy, NY.</p>
