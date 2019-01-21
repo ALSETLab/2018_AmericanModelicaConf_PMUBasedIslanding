@@ -2,14 +2,14 @@
 
 ![alt text](https://github.com/ALSETLab/2018_AmericanModelicaConf_PMUBasedIslanding/blob/master/Example_Results/Dymola2018/IslandedOperationController/GenModelwithIslandedOperationController.png)
 
-This repository contains a Islanded Operation Controller Model Implementation. These Modelica-compliant models are briefly described in the following paper of the American Modelica Conference 2018:
+This repository contains an Islanded Operation Controller Model Implementation. These Modelica-compliant models are briefly described in the following paper of the American Modelica Conference 2018:
 
 > Biswarup Mukherjee and Luigi Vanfretti, "Modeling of PMU-Based Islanded Operation Controls for 
   Power Distribution Networks using Modelica and OpenIPSL," Proceedings of The American Modelica Conference, Oct. 9-10, 2018 in Cambridge, MA, USA. [http://dx.doi.org/10.3384/ecp17132241](https://modelica.org/events/modelica2017/proceedings/html/authors/author_286.html)
 
 Please see the full paper for the documentation of the models.
 Download the paper from the [American Modelica Conference 2018](https://www.modelica.org/events/modelica2018Americas) website.
-A pre-print is available under `./Doc/`; note that this is the version submitted for review, and not the final version of the paper, which you can obtain in the website cited above.
+A pre-print is available under `./Doc/`; is the final version of the paper, which you can obtain in the website cited above.
 
 ## How to Simulate it?
 
