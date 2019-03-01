@@ -35,4 +35,4 @@ Contributions are welcome via pull requests.
 
 This Modelica package is free software and the use is completely at your own risk; it can be redistributed and/or modified under the terms of the GNU Public License version 3.
 
-Copyright (C) 2018, Biswarup Mukherjee and Luigi Vanfretti
+Copyright (C) 2018, [Biswarup Mukherjee](https://github.com/BiswarupM) and [Luigi Vanfretti](https://github.com/lvanfretti).
