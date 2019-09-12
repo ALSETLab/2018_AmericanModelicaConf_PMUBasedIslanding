@@ -5,7 +5,7 @@
 This repository contains an Islanded Operation Controller Model Implementation. These Modelica-compliant models are briefly described in the following paper of the American Modelica Conference 2018:
 
 > Biswarup Mukherjee and Luigi Vanfretti, "Modeling of PMU-Based Islanded Operation Controls for 
-  Power Distribution Networks using Modelica and OpenIPSL," Proceedings of The American Modelica Conference, Oct. 9-10, 2018 in Cambridge, MA, USA. [http://www.ep.liu.se/ecp/154/012/ecp18154012.pdf](https://modelica.org/events/modelica2017/proceedings/html/authors/author_286.html)
+  Power Distribution Networks using Modelica and OpenIPSL," Proceedings of The American Modelica Conference, Oct. 9-10, 2018 in Cambridge, MA, USA. [http://www.ep.liu.se/ecp/154/012/ecp18154012.pdf](http://www.ep.liu.se/ecp/154/012/ecp18154012.pdf)
 
 Please see the full paper for the documentation of the models.
 Download the paper from the [American Modelica Conference 2018](https://www.modelica.org/events/modelica2018Americas) website.
