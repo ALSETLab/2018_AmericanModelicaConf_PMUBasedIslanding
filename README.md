@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3539664.svg)](https://doi.org/10.5281/zenodo.3539664)
+
 # PMU Based Islanded-Operation Controller Model Implementation in Modelica
 
 ![alt text](https://github.com/ALSETLab/2018_AmericanModelicaConf_PMUBasedIslanding/blob/master/Example_Results/Dymola2018/IslandedOperationController/GenModelwithIslandedOperationController.png)
